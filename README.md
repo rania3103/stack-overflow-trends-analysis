@@ -1,4 +1,4 @@
-# Stack Overflow Trends Analysis
+# ⚡🔎📈Stack Overflow Trends Analysis📊💥📉
 
 <img src="">
 
@@ -13,18 +13,22 @@ The dataset contains the following columns:
 The dataset used for this analysis can be found on Kaggle [here](https://www.kaggle.com/datasets/computingvictor/monthly-trends-in-stack-overflow-questions).
 
 ## Tools Used 🛠️
-<p>
+<p>  
   <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-- **Pandas:** Data manipulation and analysis. 
+- **Pandas:** Data manipulation and analysis.
 - **Seaborn:** Statistical data visualization.
-- **Matplotlib:** Plotting library for Python.  
-
+- **Matplotlib:** Plotting library for Python.
+- **SciPy:** Scientific computing and technical computing.
+- **NumPy:** Numerical computing with Python.
+  
 ## Findings✨🕵
 - There is a noticeable decrease in the number of questions asked from 2022 to 2024, potentially due to the adoption of AI tools like ChatGPT.
 - The average number of questions asked before mid-2020 was higher compared to after mid-2020.
