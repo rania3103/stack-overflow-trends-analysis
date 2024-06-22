@@ -47,3 +47,8 @@ The dataset used for this analysis can be found on Kaggle [here](https://www.kag
 - Some languages, such as Python and JavaScript, have shown a consistent increase in the number of questions asked over the years.
 - Other languages, such as PHP and Ruby, have shown a decline in the number of questions over time.
 - The period from 2022 to 2024 shows a noticeable decrease in questions across most languages, potentially indicating the impact of AI tools like ChatGPT.
+
+## 👩‍💻 Author
+
+- GitHub: [@rania3103](https://github.com/rania3103)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/rania-abassi-24105a249)
